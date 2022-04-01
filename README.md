@@ -1,3 +1,3 @@
 ## Webt1320 Project Page
 
-<a href="hello__world/index.html">Hello World </a>
+<a href="lab2/index.html">Lab2 </a>
